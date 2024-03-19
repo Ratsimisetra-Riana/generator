@@ -1,0 +1,17 @@
+<config>
+    <java>
+        <package>package</package>
+        <int4>int</int4>
+        <serial>int</serial>
+        <varchar>String</varchar>
+        <date>String</date>
+        <extension>.java</extension>
+    </java>
+    <csharp>
+        <package>namespace</package>
+        <int4>int</int4>
+        <varchar>string</varchar>
+        <date>date</date>
+        <extension>.cs</extension>
+    </csharp>
+</config>
